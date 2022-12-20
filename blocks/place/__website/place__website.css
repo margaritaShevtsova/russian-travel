@@ -1,0 +1,10 @@
+.place__website {
+    align-self: end;
+}
+
+@media screen and (max-width: 717px) {
+    .place__website {
+        margin-bottom: 32px;
+        padding: 0 16px;
+    }
+}
